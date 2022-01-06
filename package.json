@@ -1,0 +1,19 @@
+{
+  "name": "chat-room-users",
+  "version": "1.0.0",
+  "description": "Chat Rooms for Users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtupang/Chat-User-Room-Node-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidtupang/Chat-User-Room-Node-JS/issues"
+  },
+  "homepage": "https://github.com/davidtupang/Chat-User-Room-Node-JS#readme"
+}
