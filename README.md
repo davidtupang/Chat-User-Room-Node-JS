@@ -1,2 +1,2 @@
 # Chat-User-Room-Node-JS
-Program Ini adalah JavaScript Untuk Realtime Chat Users dan Roms
+Program Ini adalah JavaScript Untuk Realtime Chat Users dan Roms Chat
