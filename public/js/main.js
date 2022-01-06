@@ -18,4 +18,9 @@ chatForm.addEventListener('submit',(e)=>{
     //Emit Message to Serve
     socket.emit('chatMessage',msg);
 
+    //Listen For chatMessage
+    socket.on('chatMessage',msg=>{
+        console.log(msg);
+    })
+
 });
